@@ -161,3 +161,20 @@ We ask contributors to join the Discord for quicker discussions, but it's not ne
 # 🙏 Thanks
 
 We would like to thank [Dora](https://github.com/sdushantha/dora) for their work on a bug bounty specific regex database which we have used.
+
+
+
+
+
+---
+
+## Custom Enhancements and Usage
+
+This repository has been extended with additional scripts and automation to analyze and detect malicious patterns more effectively using pyWhat’s capabilities.
+
+### Enhancements
+- Automated input handling for bulk data scanning
+- Custom filters for malicious indicators
+- Generated detailed threat reports for analysis
+
+Full credit to the original pyWhat tool by [bee-san](https://github.com/bee-san/pyWhat).
